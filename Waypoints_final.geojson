@@ -16,8 +16,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.004887,
-          30.505062
+          78.00493597984314,
+          30.50502633189003
         ]
       }
     },
@@ -29,13 +29,15 @@
         "name": "BHATOLI BATHROOM",
         "sym": "Crossed Square",
         "type": "WP",
-        "marker-symbol": "toilets"
+        "marker-symbol": "toilets",
+        "marker-color": "#000",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.00489,
-          30.505107
+          78.00486087799072,
+          30.505118769848853
         ]
       }
     },
@@ -127,7 +129,9 @@
         "name": "CREEK CROSSING",
         "sym": "Crossed Square",
         "type": "WP",
-        "marker-symbol": "cross"
+        "marker-symbol": "cross",
+        "marker-color": "#813",
+        "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +148,10 @@
         "time": "2010/08/22 23:19:22",
         "name": "FREE.01.IRG",
         "sym": "Crossed Square",
-        "type": "WP"
+        "type": "WP",
+        "marker-symbol": "water",
+        "marker-color": "#056df5",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +208,8 @@
         "time": "2010/08/22 02:36:45",
         "name": "KA.01.D",
         "sym": "Crossed Square",
-        "type": "WP"
+        "type": "WP",
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +265,8 @@
         "time": "2010/08/23 01:44:04",
         "name": "SA.01.IRG",
         "sym": "Crossed Square",
-        "type": "WP"
+        "type": "WP",
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -275,7 +284,8 @@
         "name": "SA.01.S",
         "sym": "Crossed Square",
         "type": "WP",
-        "marker-color": ""
+        "marker-color": "",
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +302,8 @@
         "time": "2010/08/23 01:40:57",
         "name": "SA.02.D",
         "sym": "Crossed Square",
-        "type": "WP"
+        "type": "WP",
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +401,7 @@
         "name": "SCHOOL HOUSE",
         "sym": "Crossed Square",
         "type": "WP",
-        "marker-color": "",
+        "marker-color": "#813",
         "marker-symbol": "building"
       },
       "geometry": {
